@@ -2,7 +2,7 @@
 <head>
 
 <script src="../js/jquery-3.2.1.min.js"></script>
-        <!-- Latest compiled and minified CSS -->
+
 <link rel="stylesheet" href="../css/bootstrap.min.css" >
 
 <!-- Optional theme -->
@@ -10,6 +10,7 @@
 
 <!-- Latest compiled and minified JavaScript -->
 <script src="../js/bootstrap.min.js" ></script>
+
 
 </head>
 

@@ -7,7 +7,7 @@ session_start();
 <!DOCTYPE html>
 <html>
     <head>
-  <script src="../js/jquery-3.2.1.min.js"></script>
+   <script src="../js/jquery-3.2.1.min.js"></script>
         <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="../css/bootstrap.min.css" >
 
@@ -16,6 +16,7 @@ session_start();
 
 <!-- Latest compiled and minified JavaScript -->
 <script src="../js/bootstrap.min.js" ></script>
+
     </head>
     <body  >
 <?php
